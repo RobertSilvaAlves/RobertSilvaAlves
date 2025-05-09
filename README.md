@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou em transição para a área de desenvolvimento Front-end
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: robertsilvaalves920@gmail.com
-- 😄 Pronomes: ele/dele
 
 ##
 [![Robert Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSilvaAlves&count_private=true&hide=issues,prs&show_icons=true&show_icons=true&theme=merko)](https://github.com/RobertSilvaAlves/github-readme-stats)
@@ -18,3 +17,5 @@
 <div>
   <a href="https://www.linkedin.com/in/robertalves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/RobertSilvaAlves/RobertSilvaAlves/blob/output/github-contribution-grid-snake.svg)
