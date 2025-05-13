@@ -23,15 +23,10 @@
   <a href="https://www.linkedin.com/in/robertalves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![](https://github.com/RobertSilvaAlves/RobertSilvaAlves/blob/dist/github-contribution-grid-snake.svg)
-
-
-
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RobertSilvaAlves/RobertSilvaAlves/output/snake.svg" alt="Snake animation" />
 
 ###
