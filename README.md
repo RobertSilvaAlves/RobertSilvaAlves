@@ -1,3 +1,7 @@
+<div align="">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## Olá, Eu sou o Robert!
 
 - 🔭 Atualmente estou em transição para a área de desenvolvimento Front-end
@@ -21,5 +25,6 @@
 <div>
   <a href="https://www.linkedin.com/in/robertalves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
