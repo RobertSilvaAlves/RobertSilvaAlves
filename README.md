@@ -5,8 +5,13 @@
 - 📫 Contate-me no email: robertsilvaalves920@gmail.com
 
 ##
-[![Robert Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSilvaAlves&count_private=true&hide=issues,prs&show_icons=true&show_icons=true&theme=merko)](https://github.com/RobertSilvaAlves/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertSilvaAlves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobertSilvaAlves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,3 +24,14 @@
 </div>
 
 ![](https://github.com/RobertSilvaAlves/RobertSilvaAlves/blob/dist/github-contribution-grid-snake.svg)
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
