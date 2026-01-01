@@ -4,8 +4,8 @@
 
 ## Olá, Eu sou o Robert!
 
-- 🔭 Atualmente estou em transição para a área de desenvolvimento Front-end
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Atualmente estou em transição estou cursando Pós em Ciências de Dados e Big Data na PUC
+- 🌱 Ciências de Dados e Big Data
 - 📫 Contate-me no email: robertsilvaalves920@gmail.com
 
 ##
