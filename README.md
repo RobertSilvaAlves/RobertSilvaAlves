@@ -2,24 +2,25 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## Olá, Eu sou o Robert!
+## 👋 Olá, eu sou o Robert!
 
-- 🔭 Atualmente estou cursando Pós em Ciências de Dados e Big Data na PUC
-- 🌱 Ciências de Dados e Big Data
-- 📫 Contate-me no email: robertsilvaalves920@gmail.com
+Atualmente estou em transição para a área de **Dados**, desenvolvendo projetos práticos em Python com foco em análise de dados.
 
+🎯 Em destaque:
+- Análise de Gastos Mensais com visualização e lógica em Python — *projeto completo no meu portfólio*
 
-##
+📌 Tecnologias: Python, Matplotlib, lógica de programação, Git & GitHub
+
+🔗 LinkedIn: https://www.linkedin.com/in/robertalves-/
+
+📫 Contato: robertsilvaalves920@gmail.com
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/robertalves-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
