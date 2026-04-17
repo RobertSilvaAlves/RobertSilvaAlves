@@ -4,9 +4,13 @@
 
 ## 👋 Olá, eu sou o Robert Alves
 
-Sou formado em Gestão da Tecnologia da Informação e atualmente estou em transição para a área de **Dados**.
+🎯 Analista de Dados em formação.
 
-Tenho desenvolvido projetos práticos em **Python**, com foco em **análise de dados, organização de informações e visualização gráfica**, buscando consolidar uma base sólida para atuar como **Data Analyst Júnior**.
+Python | SQL | Power BI | Tableau | Excel
+
+Análise e visualização de dados
+Transformando dados em insights
+
 
 ### 📌 Projeto em destaque
 - 📊 **Análise de Despesas Pessoais Mensais com Python**  
@@ -17,6 +21,7 @@ Tenho desenvolvido projetos práticos em **Python**, com foco em **análise de d
 - Matplotlib
 - Lógica de programação
 - Git & GitHub
+- Google Colab
 
 ### 🔗 Onde me encontrar
 - LinkedIn: https://www.linkedin.com/in/robertalves-/
