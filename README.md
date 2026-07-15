@@ -144,48 +144,6 @@ Projetos desenvolvidos durante minha formação Front-End React.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RobertSilvaAlves&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSilvaAlves&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RobertSilvaAlves&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RobertSilvaAlves&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertSilvaAlves&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 💡 O que você encontrará aqui
 
 ✔ Projetos Front-End
