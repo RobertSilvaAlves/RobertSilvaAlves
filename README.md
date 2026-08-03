@@ -81,30 +81,6 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 
 ---
 
-# 🗺️ Roadmap
-
-```text
-Frontend
-
-HTML5             ████████████████████ 100%
-
-CSS3              ████████████████████ 100%
-
-JavaScript        ██████████████░░░░░░ 70%
-
-React             ███████░░░░░░░░░░░░░ 35%
-
-TypeScript        ███░░░░░░░░░░░░░░░░░ 15%
-
-Node.js           ░░░░░░░░░░░░░░░░░░░░ 0%
-
-Express           ░░░░░░░░░░░░░░░░░░░░ 0%
-
-MongoDB           ░░░░░░░░░░░░░░░░░░░░ 0%
-```
-
----
-
 # 💼 Projetos
 
 ## 🖥️ Sistema de Gestão de Manutenção
