@@ -34,13 +34,14 @@
 
 # 👋 Sobre mim
 
-Sou **formado em Gestão em Tecnologia da Informação** e atualmente estou focado em construir minha carreira como **Desenvolvedor Front-End**.
+Olá, me chamo Robert e sou **formado em Gestão em Tecnologia da Informação** e atualmente estou focado em construir minha carreira como **Desenvolvedor Front-End**.
 
-Minha formação atual é **Desenvolvimento Front-End React**, onde estou aprofundando conhecimentos em desenvolvimento moderno utilizando **HTML, CSS, JavaScript, React e TypeScript**.
+Minha dedicação de estudo atual é **Desenvolvimento Front-End React**, onde estou aprofundando conhecimentos em desenvolvimento moderno utilizando **HTML, CSS, JavaScript, React e TypeScript**.
 
-Tenho experiência profissional em liderança técnica, organização de processos, resolução de problemas e melhoria contínua. Hoje aplico essas competências no desenvolvimento de interfaces modernas, acessíveis e responsivas.
+Tenho experiência na área de manutenção, onde desenvolvi habilidades como análise de problemas e controle de informações, lidando com múltiplas demandas e operações. Gosto muito da área de desenvolvimento e estou sempre procurando aprender coisas novas. Hoje aplico essas competências no desenvolvimento de interfaces modernas, acessíveis e responsivas.
 
 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Front-End** e, posteriormente, evoluir para **Full Stack Developer**.
+
 
 ---
 
